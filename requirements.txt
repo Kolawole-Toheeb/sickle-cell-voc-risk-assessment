@@ -1,8 +1,9 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-shap
-joblib
-reportlab
+streamlit==1.58.0
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.6.1
+xgboost==3.3.0
+shap==0.52.0
+joblib==1.5.3
+reportlab==5.0.0
+scipy==1.17.1
